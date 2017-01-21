@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SendDataToLastActivity</string>
+    <string name="login_button">Login</string>
+    <string name="hello_button">Say Hello</string>
+    <string name="back_button">Back</string>
+    <string name="orientation_button">Orientation</string>
+    <string name="text_login">Login</string>
+    <string name="text_password">Password</string>
+    <string name="text_your_login">Your login:</string>
+    <string name="text_your_password">Your password:</string>
+    <string name="text_last_login">login</string>
+    <string name="text_last_password">password</string>
+</resources>
